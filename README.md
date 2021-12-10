@@ -1,7 +1,7 @@
 # MIAF
 Official MPEG repository to discuss issues on MIAF (ISO/IEC 23000-22)
 
-The table below lists final and current documents produced by MPEG regarding ISO/IEC 23000-22 (MIAF)
+The table below lists final and current documents produced by MPEG regarding ISO/IEC 23000-22 (MIAF). Links to MPEG Output documents are only accessible to MPEG members.
 
 | Document Name | Output Date | Output doc# | ISO Status | Comments |
 | ----- | ----- | ----- | ----- | ----- | 
